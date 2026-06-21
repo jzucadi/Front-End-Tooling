@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/8ddd0b7d-c9b0-4975-baa9-271bfe97c272" width="75%">
-</p>
-
-
 A curated collection of TypeScript/JavaScript/CoffeeScript design patterns, utilities, and overall tooling for common programming scenarios.  This repository serves as a practical reference for developers looking for battle-tested solutions to everyday coding challenges.
 
 ### Design Patterns
